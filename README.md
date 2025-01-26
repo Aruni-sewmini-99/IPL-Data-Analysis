@@ -6,8 +6,4 @@ Analysis of IPL data using Python, including visualizations and insights
 - Team strategies and win predictions.
 - Data visualizations using Python (Matplotlib, Seaborn).
 
-  ## Repository Contents
-- **IPL Blog (PDF)**: 
-- **Colab Notebook**:
-- **Dataset**:
-
+  
